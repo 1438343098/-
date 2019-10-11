@@ -1,0 +1,30 @@
+{
+	"groups": [
+		{
+			"keys": "BG_jpg,red_png,blue_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/BG.jpg",
+			"type": "image",
+			"name": "BG_jpg"
+		},
+		{
+			"url": "assets/red.png",
+			"type": "image",
+			"name": "red_png"
+		},
+		{
+			"url": "assets/blue.png",
+			"type": "image",
+			"name": "blue_png"
+		}
+	]
+}
